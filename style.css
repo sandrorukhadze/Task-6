@@ -1,0 +1,251 @@
+.header {
+    width: 1220px;
+    height: 65;
+    position: relative;
+    left: 100px;
+    top: 30px;
+
+}
+
+.logo {
+    position: relative;
+    top: 15px;
+    left: 50px;
+
+}
+
+.navigation {
+    position: relative;
+    bottom: 39px;
+    left: 395px;
+    width: 825px;
+    height: 65px;
+
+}
+
+.get {
+    background-color: blue;
+    display: inline-block;
+    height: 65px;
+    width: 200px;
+    position: relative;
+    left: 150px;
+    text-align: center;
+    align-items: center;
+}
+
+.ss {
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 20px;
+    color: white;
+}
+
+.white {
+    color: white;
+}
+
+.ul_class li {
+    display: inline;
+    position: relative;
+    left: 150px;
+    top: 25px;
+    margin: 15px;
+
+}
+
+.main {
+    position: relative;
+    top: 250px;
+    left: 100px;
+    width: 1220px;
+    height: 510px;
+
+}
+
+.title {
+    position: relative;
+    width: 283px;
+    height: 86px;
+    left: 470px;
+    text-align: center;
+    align-items: center;
+}
+
+.article {
+    position: relative;
+    width: 1220px;
+    height: 383px;
+    top: 40px;
+}
+
+.article_1 {
+    background-color: #f4f4f4;
+    width: 386px;
+    height: 383px;
+}
+
+.make {
+    position: relative;
+    top: 70px;
+    left: 40px;
+    width: 300px;
+    height: 185;
+    text-align: center;
+}
+
+.Testimonials {
+    position: relative;
+    display: inline-block;
+    color: violet;
+    bottom: 60px;
+    left: 30px;
+
+}
+
+.calendar {
+    position: relative;
+    right: 50px;
+    top: 30px;
+
+}
+
+.article_2 {
+    background-color: #f4f4f4;
+    position: relative;
+    left: 420px;
+    bottom: 383px;
+    width: 386px;
+    height: 383px;
+}
+
+.consul {
+    position: relative;
+    top: 70px;
+    left: 40px;
+    width: 300px;
+    height: 185;
+    text-align: center;
+}
+
+.consulting {
+    position: relative;
+    right: 50px;
+    top: 30px;
+}
+
+.article_3 {
+    background-color: #f4f4f4;
+    position: relative;
+    left: 834px;
+    bottom: 766px;
+    width: 386px;
+    height: 383px;
+}
+
+.images_3 {
+    position: relative;
+    right: 50px;
+    top: 30px;
+}
+
+.image {
+    position: relative;
+    top: 350px;
+    width: 100%;
+    height: 557px;
+}
+
+.video {
+    position: relative;
+    width: 511px;
+    height: 270px;
+    bottom: 120px;
+    left: 450px;
+    text-align: center;
+}
+
+.play {
+    position: relative;
+    top: 40px;
+}
+
+.section2 {
+    width: 1220px;
+    height: 659px;
+    position: relative;
+    left: 110px;
+    top: 200px;
+}
+
+.meet {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 500px;
+}
+
+.experts {
+    width: 1220px;
+    height: 532px;
+    position: relative;
+    top: 85px;
+}
+
+.expert_name {
+    background-color: white;
+    width: 341px;
+    height: 114px;
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+    text-align: center;
+
+}
+
+.nattasha {
+    font-size: 25px;
+
+}
+
+.managing {
+    color: wheat;
+
+}
+
+.image2 {
+    position: relative;
+    bottom: 448px;
+    left: 420px;
+
+}
+
+.expert_name2 {
+    background-color: white;
+    width: 341px;
+    height: 114px;
+    position: absolute;
+    bottom: 50px;
+    left: 448px;
+    text-align: center;
+
+}
+
+.image3 {
+    position: relative;
+    bottom: 448px;
+    left: 443px;
+
+
+}
+
+.expert_name3 {
+    background-color: white;
+    width: 341px;
+    height: 114px;
+    position: absolute;
+    bottom: 50px;
+    left: 860px;
+    text-align: center;
+}
